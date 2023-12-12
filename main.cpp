@@ -1,6 +1,6 @@
-// Assigment 1
-// Student name : Fady Fahmy
-// CSCI 373
+// Fady Fahmy
+// Recursive Function CS Project
+
 
 #include <iostream>
 #include <string>
